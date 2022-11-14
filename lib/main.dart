@@ -36,7 +36,6 @@ class _HomePageState extends State<HomePage> {
     "https://picsum.photos/id/256/200/300",
     "https://picsum.photos/id/257/200/300",
     "https://picsum.photos/id/258/200/300",
-
   ];
 
   @override
